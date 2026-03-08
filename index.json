@@ -5,7 +5,7 @@
       "id": "1",
       "title": "Земляные работы",
       "description": "Охрана труда при земляных работах",
-      "file": "tests-json/Земляные работы.json",
+      "file": "https://raw.githubusercontent.com/gtwww9/hypertrainer-tests/main/tests-json/Земляные работы.json",
       "category": "Охрана труда",
       "difficulty": 1
     },
@@ -13,7 +13,7 @@
       "id": "2",
       "title": "Машинист крана",
       "description": "Машинист (оператор) крана, управляемого с пола",
-      "file": "tests-json/Машинист (оператор) крана, управляемого с пола.json",
+      "file": "https://raw.githubusercontent.com/gtwww9/hypertrainer-tests/main/tests-json/Машинист (оператор) крана, управляемого с пола.json",
       "category": "Охрана труда",
       "difficulty": 2
     },
@@ -21,7 +21,7 @@
       "id": "3",
       "title": "Рабочие люльки",
       "description": "Работа на рабочих люльках",
-      "file": "tests-json/Рабочие люльки.json",
+      "file": "https://raw.githubusercontent.com/gtwww9/hypertrainer-tests/main/tests-json/Рабочие люльки.json",
       "category": "Охрана труда",
       "difficulty": 2
     },
@@ -29,7 +29,7 @@
       "id": "4",
       "title": "Слесарь ПС ЭНЦ",
       "description": "Слесарь ПС ЭНЦ",
-      "file": "tests-json/Слесарь ПС ЭНЦ.json",
+      "file": "https://raw.githubusercontent.com/gtwww9/hypertrainer-tests/main/tests-json/Слесарь ПС ЭНЦ.json",
       "category": "Охрана труда",
       "difficulty": 2
     },
@@ -37,7 +37,7 @@
       "id": "5",
       "title": "Стропальщики",
       "description": "Работа стропальщиком",
-      "file": "tests-json/Стропальщики.json",
+      "file": "https://raw.githubusercontent.com/gtwww9/hypertrainer-tests/main/tests-json/Стропальщики.json",
       "category": "Охрана труда",
       "difficulty": 1
     },
@@ -45,7 +45,7 @@
       "id": "6",
       "title": "Электромонтеры",
       "description": "Работа электромонтера",
-      "file": "tests-json/Электромонтеры.json",
+      "file": "https://raw.githubusercontent.com/gtwww9/hypertrainer-tests/main/tests-json/Электромонтеры.json",
       "category": "Охрана труда",
       "difficulty": 2
     }
